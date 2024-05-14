@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":05._Default_methods-What_is_a_result" external.linked.project.path="$MODULE_DIR$/../../../../05. Default methods/What is a result" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="14._Abstract_class_Interfaces" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../05. Default methods/What is a result">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../05. Default methods/What is a result/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../05. Default methods/What is a result/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../05. Default methods/What is a result/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-05-14T20:27:08" hostname="DESKTOP-A97GDF4" time="0.008">
+  <properties/>
+  <testcase name="test1" classname="MainTest" time="0.005"/>
+  <testcase name="test2" classname="MainTest" time="0.0"/>
+  <testcase name="test3" classname="MainTest" time="0.001"/>
+  <testcase name="test4" classname="MainTest" time="0.0"/>
+  <testcase name="testWithOneCharString" classname="MainTest" time="0.0"/>
+  <testcase name="testWithMaxIntNumber" classname="MainTest" time="0.0"/>
+  <testcase name="testWithMinIntNumber" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

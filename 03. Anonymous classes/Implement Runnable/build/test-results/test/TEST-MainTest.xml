@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-05-14T20:38:10" hostname="DESKTOP-A97GDF4" time="0.138">
+  <properties/>
+  <testcase name="testEmptyInput" classname="MainTest" time="0.013"/>
+  <testcase name="simpleTest" classname="MainTest" time="0.001"/>
+  <testcase name="testSingleLine" classname="MainTest" time="0.001"/>
+  <testcase name="testLargeInput" classname="MainTest" time="0.121"/>
+  <testcase name="testPhrase" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

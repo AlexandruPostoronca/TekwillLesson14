@@ -1,0 +1,20 @@
+type: edu
+custom_name: Single method
+files:
+  - name: src/Main.java
+    visible: true
+    encrypted_text: a3Oc3sOKihNm0o8Cls6AmyeWIhmDJL/5rNJXTdSbN9YiMZUcP/KilbRMVqg6vwotT4DzboJ2oc/jB8rzE0rFTLlHJZymKs98WTidim6Obv7yKE6LAr+hbGPQcE89jDb5zia1s6w8pfc57zab3xmI8HlbntU2KRxzhGHFGCMVQWEdNzbhRkR0hV6xPa9nXklOPRUGXXfKPoG2CKVZhZ327JrgdiQAWCWxbvobUyhe6pca6EkMw0/aNw7UKz6mP2OHspOGWJSfH9Xmhlgk8JzMM6fLgFk3UL0IQK6TkhqEgtxWlxaNK5pL8YN3IfLNegfYxpHxx9aKEIckzvT5JO1KhPDqhoJFbnxkNsxDn9jYsbcHJbR3/df8PKO0kkw6S2tG
+    learner_created: false
+  - name: src/SingleMethodInterface.java
+    visible: true
+    encrypted_text: +IszU2sLU405ZWI8OEONm+8A8jM/U/SVBZCF2kh9tEx35aXQjUeBFQTnn5JEFQlswWaGuIxHDIu/D8J1u1apQPhUV2eO9naShhJ0CD9wlcA=
+    learner_created: false
+  - name: test/MainTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nEsEPHevjd6ZOkKdl5CNK3XoTnNMhliQtiuGjK71enIYXZKzozSlkIcKbL6Sid2DxPCVTdGgAwh348em+ytIWMJxwh4kFZpSbv3IZgjpRLPaVjt96XCl71Mxe1QRXR6zExV1a5RX7KkHXnIdUG3utIU9KrEAnCmRrTcRxCi6z59sjOyX6v5ex50Wy86z63QjpPYuxkFmm+UjSGj7KhlIsnNBa1FTX5mLxBXzJokfYLE11HnlxL9HzyKxipnw+pa9rFxBrKlXxD+VC78Yqvai7Jqt9I+ujD2mLRFpPAW8mMJJXUoF4wHlfd+bfrLw2GBDS/0fFLk0k+7TViQjrjppk17PcvLRs/1kz/3lcjzLlef5Xv/a1IUlD5u9F7uayXJQ/sdPSeiwiDVkQZQAa2gjBl/eG8bgGoh93KxRZ/4/q/SENlPjQBRfcqSIiEs5mbEAIu/M9ElIkGsv2ffOQKAq/AhahmamFsRo991OipFviOed6PSoScjdoUFHSv+IK3HG6lKunAJ/fBNo0w4+UhcBmUVs3YT5RUCeKX89dscgMUXFZo1SPn3SuNV4AVuPeFjLiM7LDdXTYNDaAWzNPZC4bYdZ1tl0oM7zOTGLAP0Cws8+aCSqgopp3K70dMHpQ3eyPXSRGURhp8hM3NSiOZh0ldKL6HOQplR7SPRWKeJrUWdg/iF6IQvaM2tIQeLeRo4d7yZtJkGQnG3iy8fVJonmQjL/Hnw7k7w/ClrDM4dFT5m4ui6qM2dqb6STAICszckmqSF2yF0GNyCPF5L7vZpl7c32Dh5lBiS8WMg3bBmWhb89HSUUHufyTbmkpACeaLhmxyiyr+G2gSGpFC5i5rO7HXBiZOSss9jasioEHGP6oIybTBCuKc20VAr6try+pjJq1WpN+bo+YHO+ch37wuLX4gU4lIXZU5L0jbG+cM1CJjSNui4MOAtarfyPsj33rfW7AVOgIyLXHoqa1pQXaM3yn7AjrVdvHk3GkddYlG7YY50O+i0AfAc1eOLlszOTFZfVgg==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 14 May 2024 20:40:19 UTC"
+record: -1
